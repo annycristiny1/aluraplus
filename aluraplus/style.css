@@ -5,3 +5,6 @@
 --cor-de-fundo:var(#00030c);
 
 }
+body{
+    background-color: var(--cor-de-fundo));
+}
