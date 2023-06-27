@@ -36,3 +36,6 @@ body{
     color: var(--branco-principa);
     display: block;
 }
+.botao_secundario {
+    background-color: transparent;
+}
