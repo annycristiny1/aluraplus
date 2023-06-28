@@ -23,7 +23,8 @@ body{
     background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
-    
+    align-items: center;
+    text-align: center;
 }
 
 .container{
@@ -61,6 +62,7 @@ body{
 .container__imagem{
     margin: 1em 2em 0;
 }
-.container__caixa{
-    
+
+.containe__caixa{
+    margin: 0 6 em;
 }
